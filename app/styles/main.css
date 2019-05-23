@@ -1,0 +1,29 @@
+th a {
+  color: #888;
+}
+
+select {
+  color: #000;
+}
+
+.header {
+  background-color: #DC7433;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.header-title {
+  margin-top: 0;
+}
+
+.filter-modal {
+  position: absolute;
+  border: 1px solid #ccc;
+  padding: 5px;
+  background: #fff;
+  margin-top: 5px;
+}
+
+.inline-button {
+  display: inline;
+}
