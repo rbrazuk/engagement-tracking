@@ -78,7 +78,7 @@ module.exports = function (grunt) {
       },
       pages: {
         options: {
-          remote: 'git@github.com:rbrazuk/engagement-tracking.git',
+          remote: 'https://github.com/rbrazuk/engagement-tracking.git',
           branch: 'gh-pages'
         }
       },
